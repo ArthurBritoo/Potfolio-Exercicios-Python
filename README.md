@@ -6,45 +6,7 @@ Este repositório reúne uma coleção de exercícios e projetos desenvolvidos a
 
 Atualmente, os arquivos estão organizados da seguinte forma:
 
-atividades-faculdade/
-├── Dicionarios/
-│ ├── agenda.py
-│ └── dicionarios_basicos.py
-│
-├── OBI/
-│ ├── busca_binaria.py
-│ ├── escada.py
-│ ├── frete.py
-│ ├── jogo_quadrados.py
-│ └── pulando_muros.py
-│
-├── POO/
-│ ├── cadastro_animais.py
-│ └── fazenda_juarez.py
-│
-├── Projetinhos/
-│ ├── album_da_copa.py
-│ ├── basquete_de_robos.py
-│ ├── bondinho.py
-│ ├── domino.py
-│ ├── drone_entrega.py
-│ ├── idade_camila.py
-│ ├── idade_dona_monica.py
-│ ├── par_ou_impar.py
-│ ├── perfil_escher.py
-│ ├── piloto_automatico.py
-│ ├── plano_internet.py
-│ ├── plantacao_morango.py
-│ ├── torneio_tenis.py
-│ └── transporte_drone.py
-│
-├── Recursividade/
-│ ├── contagem_regressiva.py
-│ ├── exponencial_recursiva.py
-│ ├── fatorial_recursivo.py
-│ └── somatorio.py
-│
-└── README.md
+<pre lang="markdown"> ```text atividades-faculdade/ ├── Dicionarios/ │ ├── agenda.py │ └── dicionarios_basicos.py │ ├── OBI/ │ ├── busca_binaria.py │ ├── escada.py │ ├── frete.py │ ├── jogo_quadrados.py │ └── pulando_muros.py │ ├── POO/ │ ├── cadastro_animais.py │ └── fazenda_juarez.py │ ├── Projetinhos/ │ ├── album_da_copa.py │ ├── basquete_de_robos.py │ ├── bondinho.py │ ├── domino.py │ ├── drone_entrega.py │ ├── idade_camila.py │ ├── idade_dona_monica.py │ ├── par_ou_impar.py │ ├── perfil_escher.py │ ├── piloto_automatico.py │ ├── plano_internet.py │ ├── plantacao_morango.py │ ├── torneio_tenis.py │ └── transporte_drone.py │ ├── Recursividade/ │ ├── contagem_regressiva.py │ ├── exponencial_recursiva.py │ ├── fatorial_recursivo.py │ └── somatorio.py │ └── README.md ``` </pre>
 
 ## 🧾 Descrição das Pastas
 
@@ -67,3 +29,7 @@ atividades-faculdade/
    git clone https://github.com/ArthurBritoo/atividades-faculdade.git
    ```bash
    git clone https://github.com/ArthurBritoo/atividades-faculdade.git
+##📌 Observações
+**Os scripts foram desenvolvidos com fins educacionais e podem ser aprimorados.
+
+**Sinta-se à vontade para explorar, modificar e utilizar os códigos como base para estudos.
