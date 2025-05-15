@@ -1,7 +1,15 @@
-N = int(input())
-for _ in range(N):
-    dist, altura = map(float, input().split())
-    if 12 <= dist <= 18 and altura <= 1.5:
-        print("DUCK")
+#Questão: Basquete de robôs
+#Enunciado:
+# Dado a distância do robô até o início da quadra, calcule a pontuação do lançamento.
+#Entrada:
+# Um número inteiro D (0 ≤ D ≤ 2000).
+#Saída:
+# 1, 2 ou 3 pontos.
+#Resolução correta:
+def checarLançamento(D):
+    if D <= 800:
+        return 1
+    elif D <= 1400:
+        return 2
     else:
-        print("NAO DUCK")
+        return 3
