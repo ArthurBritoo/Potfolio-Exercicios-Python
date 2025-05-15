@@ -29,7 +29,7 @@ Atualmente, os arquivos estão organizados da seguinte forma:
    git clone https://github.com/ArthurBritoo/atividades-faculdade.git
    ```bash
    git clone https://github.com/ArthurBritoo/atividades-faculdade.git
-##📌 Observações
-**Os scripts foram desenvolvidos com fins educacionais e podem ser aprimorados.
+## 📌 Observações
+- **Os scripts foram desenvolvidos com fins educacionais e podem ser aprimorados.
 
-**Sinta-se à vontade para explorar, modificar e utilizar os códigos como base para estudos.
+- **Sinta-se à vontade para explorar, modificar e utilizar os códigos como base para estudos.
