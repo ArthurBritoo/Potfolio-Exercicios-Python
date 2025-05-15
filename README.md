@@ -16,7 +16,6 @@ Atualmente, os arquivos estão organizados da seguinte forma:
 - `exponencial_recursiva.py`: Implementação recursiva de exponenciação.
 - `fatorial_recursivo.py`: Cálculo de fatorial utilizando recursão.
 - `idade_camila.py`: Determinação da idade intermediária entre três valores.
-- `idade_dona_monica.py`: Cálculo da idade dos filhos de Dona Mônica.
 - `par_ou_impar.py`: Jogo simples de par ou ímpar.
 - `perfil_escher.py`: Análise de padrões em uma matriz representando o perfil de Escher.
 - `piloto_automatico.py`: Simulação de um sistema de piloto automático.
