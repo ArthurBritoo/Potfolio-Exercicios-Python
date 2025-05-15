@@ -1,30 +1,60 @@
 # 🎓 Atividades da Faculdade
 
-Este repositório contém uma coleção de exercícios e projetos desenvolvidos durante minha trajetória acadêmica. Os arquivos estão escritos em Python e abordam diversos tópicos de lógica de programação, matemática computacional e algoritmos.
+Este repositório reúne uma coleção de exercícios e projetos desenvolvidos ao longo da minha trajetória acadêmica. Os arquivos estão escritos em Python e abordam diversos tópicos de lógica de programação, matemática computacional, algoritmos e programação orientada a objetos.
 
-## 📂 Estrutura do Repositório
+## 📁 Estrutura do Repositório
 
 Atualmente, os arquivos estão organizados da seguinte forma:
 
-- `album_da_copa.py`: Simulação de um álbum de figurinhas da Copa.
-- `basquete_de_robos.py`: Algoritmo para calcular pontuações em um jogo de basquete automatizado.
-- `bondinho.py`: Cálculo de capacidade e viagens de um bondinho.
-- `cadastro_alunos.py`: Sistema simples de cadastro de alunos com notas.
-- `domino.py`: Verificação de peças válidas em um jogo de dominó.
-- `drone_entrega.py`: Simulação de entregas realizadas por drones.
-- `exponencial_modular.py`: Cálculo de exponenciação modular.
-- `exponencial_recursiva.py`: Implementação recursiva de exponenciação.
-- `fatorial_recursivo.py`: Cálculo de fatorial utilizando recursão.
-- `idade_camila.py`: Determinação da idade intermediária entre três valores.
-- `par_ou_impar.py`: Jogo simples de par ou ímpar.
-- `perfil_escher.py`: Análise de padrões em uma matriz representando o perfil de Escher.
-- `piloto_automatico.py`: Simulação de um sistema de piloto automático.
-- `plano_internet.py`: Cálculo de consumo de dados em um plano de internet.
-- `plantacao_morango.py`: Gerenciamento de uma plantação de morangos.
-- `torneio_tenis.py`: Simulação de partidas em um torneio de tênis.
-- `transporte_drone.py`: Otimização de rotas para transporte com drones.
+atividades-faculdade/
+├── Dicionarios/
+│ ├── agenda.py
+│ └── dicionarios_basicos.py
+│
+├── OBI/
+│ ├── busca_binaria.py
+│ ├── escada.py
+│ ├── frete.py
+│ ├── jogo_quadrados.py
+│ └── pulando_muros.py
+│
+├── POO/
+│ ├── cadastro_animais.py
+│ └── fazenda_juarez.py
+│
+├── Projetinhos/
+│ ├── album_da_copa.py
+│ ├── basquete_de_robos.py
+│ ├── bondinho.py
+│ ├── domino.py
+│ ├── drone_entrega.py
+│ ├── idade_camila.py
+│ ├── idade_dona_monica.py
+│ ├── par_ou_impar.py
+│ ├── perfil_escher.py
+│ ├── piloto_automatico.py
+│ ├── plano_internet.py
+│ ├── plantacao_morango.py
+│ ├── torneio_tenis.py
+│ └── transporte_drone.py
+│
+├── Recursividade/
+│ ├── contagem_regressiva.py
+│ ├── exponencial_recursiva.py
+│ ├── fatorial_recursivo.py
+│ └── somatorio.py
+│
+└── README.md
 
-## 🛠️ Tecnologias Utilizadas
+## 🧾 Descrição das Pastas
+
+- **Dicionarios/**: Exercícios focados no uso de dicionários em Python, incluindo uma agenda de contatos e operações básicas.
+- **OBI/**: Problemas inspirados na Olimpíada Brasileira de Informática, abordando algoritmos e lógica de programação.
+- **POO/**: Projetos que utilizam Programação Orientada a Objetos, como sistemas de cadastro e gerenciamento de animais.
+- **Projetinhos/**: Diversos mini-projetos que aplicam conceitos variados de programação, desde simulações até jogos simples.
+- **Recursividade/**: Implementações de algoritmos que utilizam técnicas recursivas, como fatorial, somatório e exponenciação.
+
+## 💻 Tecnologias Utilizadas
 
 - **Linguagem:** Python 3.x
 
@@ -33,5 +63,7 @@ Atualmente, os arquivos estão organizados da seguinte forma:
 1. Certifique-se de ter o Python 3 instalado em sua máquina.
 2. Clone este repositório:
 
+   ```bash
+   git clone https://github.com/ArthurBritoo/atividades-faculdade.git
    ```bash
    git clone https://github.com/ArthurBritoo/atividades-faculdade.git
