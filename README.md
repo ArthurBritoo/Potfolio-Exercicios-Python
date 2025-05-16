@@ -1,4 +1,4 @@
-# 🎓 Atividades da Faculdade
+# 💻 Portfólio de Exercícios Python
 
 Este repositório reúne uma coleção de exercícios e projetos desenvolvidos ao longo da minha trajetória acadêmica. Os arquivos estão escritos em Python e abordam diversos tópicos de lógica de programação, matemática computacional, algoritmos e programação orientada a objetos.
 
@@ -7,7 +7,7 @@ Este repositório reúne uma coleção de exercícios e projetos desenvolvidos a
 Atualmente, os arquivos estão organizados da seguinte forma:
 
 <pre lang="markdown"> 
-atividades-faculdade/
+potfolio-exercicios-python/
 ├── Condicionais/
 ├── Dicionarios/
 ├── Funções/
