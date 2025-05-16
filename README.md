@@ -42,13 +42,12 @@ potfolio-exercicios-python/
 
 ## 🚀 Como Executar os Scripts
 
-1. Certifique-se de ter o Python 3 instalado em sua máquina.
+1. Certifique-se de ter o Python 3 instalado em sua máquina.  
 2. Clone este repositório:
 
    ```bash
-   git clone https://github.com/ArthurBritoo/atividades-faculdade.git
-   ```bash
-   git clone https://github.com/ArthurBritoo/atividades-faculdade.git
+   git clone https://github.com/ArthurBritoo/Potfolio-Exercicios-Python.git
+
 ## 📌 Observações
 - Os scripts foram desenvolvidos com fins educacionais e podem ser aprimorados.
 
