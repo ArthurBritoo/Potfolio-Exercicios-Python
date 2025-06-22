@@ -11,8 +11,9 @@ for j in range(1,11):
     chance.append(qtd)
 
 print("escolha um numero de 1 a 10 sabendo que:")
-for i in range(0,10):
-    print(f"{i+1} tem {chance[i]}% de chance de aparecer")
+for i in range(10):
+    porcentagem = (chance[i] / 100) * 100  
+    print(f"{i+1} tem {porcentagem:.0f}% de chance de aparecer")
 entrada = int(input("Qual o numero escolhido? "))
 
 indice_sorteado = random.randint(0,99)
